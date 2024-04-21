@@ -1,7 +1,5 @@
 # PAC-MAN
-videojuego PAC-MAN para proyecto1
-hola
-PLANTILLA
+This is a copy of the retro game Pac-Man 1980 created by two studients of the University UPC (CITM).
 # Project Name
 TODO: Write a project description
 ## Installation
