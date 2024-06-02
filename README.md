@@ -62,4 +62,4 @@ Link to a 5 minute video (YouTube or Vimeo) showing all implemented features: [H
 
 ### Our Github repository Link [HERE](https://github.com/victorpeor/PAC-MAN-Proyecto1)
 ### Our game Wiki page for more information [HERE](https://github.com/victorpeor/PAC-MAN-Proyecto1/wiki)
-### Download Our Latest Release [HERE](https://github.com/user-attachments/files/15526909/ToniLlovera.VictorPerez_Pac-Man_v.1.0.zip)
+### Download Our Latest Release [HERE](https://github.com/user-attachments/files/15526982/ToniLlovera.VictorPerez_Pac-Man_v.1.0.zip))
