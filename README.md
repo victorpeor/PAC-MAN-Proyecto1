@@ -45,7 +45,7 @@ Balls that give you points
 
 * _Code/Design_
 
-### Our Github repository Link * https://github.com/victorpeor/PAC-MAN-Proyecto1
-### Our game Wiki page for more information 
+### Our Github repository Link [HERE](https://github.com/victorpeor/PAC-MAN-Proyecto1)
+### Our game Wiki page for more information [HERE](https://github.com/victorpeor/PAC-MAN-Proyecto1/wiki)
 
 
