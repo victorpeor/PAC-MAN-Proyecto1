@@ -19,7 +19,7 @@ Link to a 1-minute maximum video (YouTube or Vimeo) showing all implemented feat
 - a= Left
 - d= Right
 
-## List of features implemented*
+## List of features implemented
 - Pac-Man Map lvl 1 & 2
 - Intro Animation
 - Game Over Screen
