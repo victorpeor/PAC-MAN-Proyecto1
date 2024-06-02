@@ -12,10 +12,10 @@ Our project consists on creating a replication of Pac-Man Namco, arcade, 1980 as
 *Link to a 1-minute maximum video (YouTube or Vimeo) showing all implemented features:* https://youtu.be/OIIeQTBvqt4
 
 ## Controls 
-w = Up
-s= Down
-a= Left
-d= Right
+- w = Up
+- s= Down
+- a= Left
+- d= Right
 
 ## List of features implemented*
 Pac-Man map
