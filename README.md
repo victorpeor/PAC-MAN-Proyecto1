@@ -20,12 +20,25 @@ Link to a 1-minute maximum video (YouTube or Vimeo) showing all implemented feat
 - d= Right
 
 ## List of features implemented*
-Pac-Man map
-Music
-Pac-Man and its movement
-Hitbox
-Score 
-Balls that give you points
+- Pac-Man Map lvl 1 & 2
+- Intro Animation
+- Game Over Screen
+- You Win Screen
+- Music for every event in the game
+- Pac-Man and its movement
+- Pac-Man animation
+- Ghosts enemy movement
+- Ghosts Animations
+- Floating Score when a Ghost is eaten
+- Map border to Map border teleport (tunnel)
+- Hitboxes
+- Score 
+- Timer
+- Lives Counter
+- Level Counter
+- Dots that give you points
+- Bigger dot that gives Pac-Man its superpower
+- Fruit that gives you 1Up
 
 ## Photo
 ![Imagen de WhatsApp 2024-03-10 a las 23 06 45_84294fa0](https://github.com/victorpeor/PAC-MAN-Proyecto1/assets/160216454/e35a9080-5dfd-4f72-8af7-cd48ea78a036)
