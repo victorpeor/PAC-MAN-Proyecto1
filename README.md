@@ -1,4 +1,6 @@
-![MV5BMmViYjMzN2EtOTBjNy00MmI0LTk5ZTItM2MyNzEwNGIzZjdhXkEyXkFqcGdeQXVyMTg2NzgzMDE@ _V1_](https://github.com/victorpeor/PAC-MAN-Proyecto1/assets/160216454/7cbf0869-9b14-4d70-9d41-3e5bf759b2d1)
+
+![image](https://github.com/victorpeor/PAC-MAN-Proyecto1/assets/160216454/87c32a17-609c-4cc9-b2b2-d8a28642c557)
+
 
 
 ## About the game
