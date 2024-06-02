@@ -11,7 +11,7 @@ Pac-Man is an action maze chase video game; the player controls the eponymous ch
 Our project consists on creating a replication of Pac-Man Namco, arcade, 1980 as acurate as possible. This project takes part of the subject "Project 1" of an a University from Catalonia called UPC-CITM.
 
 ## Gameplay
-Link to a 3 -minute maximum video (YouTube or Vimeo) showing all implemented features: [HERE](https://youtu.be/Cvok-hFHfMY)
+Link to a 5 minute video (YouTube or Vimeo) showing all implemented features: [HERE](https://youtu.be/Cvok-hFHfMY)
 
 ## Controls 
 - w = Up
