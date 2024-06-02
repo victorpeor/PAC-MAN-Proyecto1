@@ -35,13 +35,13 @@ Balls that give you points
 
 **Víctor Pérez Ortega** 
 
-* **Github**: @victorpeor
+* **Github**: [victorpeor](https://github.com/victorpeor)
 
 * _Code/Design_
 
 **Toni Llovera** 
 
-* **Github**: @ToniLlovera 
+* **Github**: [ToniLlovera](https://github.com/ToniLlovera)
 
 * _Code/Design_
 
